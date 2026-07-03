@@ -1,26 +1,32 @@
-# Day 2 — Preparing Your Environment
+# Day 1 — Course Introduction
 
-**Date:** Jul 1, 2026 | **Mod #2** | **Est. time:** 35 min
+**Date:** Jun 30, 2026 | **Mod #1** | **Est. time:** 40 min
 
 ## Lessons Covered
-- Install Terraform (Mac/Linux/Win)
-- Install VS Code
-- AWS/Azure/GitHub credential setup
+- Course Intro
+- About the Exam
+- Exam Objectives
+- What's New in 004
 
 ## Notes
 
-### Installing Terraform
-- Download the appropriate binary/package for your OS, or use a package manager.
-- Verify install with `terraform version`.
+### About the Exam
+- Prepares for the **HashiCorp Certified: Terraform Associate** exam.
+- The 004 version reflects the current set of exam objectives and Terraform features.
 
-### Installing VS Code
-- Recommended editor for writing HCL.
-- Install the HashiCorp Terraform extension for syntax highlighting and validation support.
+### Exam Objectives (high level)
+- IaC concepts (declarative vs imperative, benefits)
+- Terraform basics (providers, resources, HCL)
+- Core workflow (init, plan, apply, destroy, validate)
+- State management
+- Modules
+- CLI usage
+- Terraform Cloud/Enterprise basics (varies by version)
 
-### Credential Setup
-- **AWS/Azure:** Configure access keys/secrets (or equivalent auth method) so Terraform can authenticate against the provider's API.
-- **GitHub:** Set up credentials to support version-controlling `.tf` configuration files and collaborating with a team.
+### What's New in 004
+- Updated objectives reflecting current best practices and CLI behavior.
+- Some content reorganized compared to the 003 exam version.
 
 ## Key Takeaways
-- Working authentication must be in place *before* running `apply` against real infrastructure.
-- Version control from day one keeps configuration changes auditable.
+- Understand exam structure and objectives before diving into hands-on content.
+- Keep the objectives list handy to check off topics as they're covered.
