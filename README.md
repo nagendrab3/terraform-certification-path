@@ -23,4 +23,4 @@ See [`study-tracker.md`](./study-tracker.md) for the full schedule with status.
 
 ## Goal
 
-Consistent daily study (9:00–11:00 AM) toward Terraform Associate certification, tracking lessons covered and estimated study time per session.
+Consistent daily study toward Terraform Associate certification, tracking lessons covered and estimated study time per session.
