@@ -20,6 +20,7 @@ Prepares for the HashiCorp Certified: Terraform Associate exam.
 The 004 version reflects the current set of exam objectives and Terraform features.
 
 **Exam Objectives (high level)**
+
 IaC concepts (declarative vs imperative, benefits)
 
 Terraform basics (providers, resources, HCL)
