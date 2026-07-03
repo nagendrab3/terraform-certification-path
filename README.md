@@ -1,6 +1,6 @@
 # Terraform Certification Path
 
-Daily study notes and progress tracker for preparing for the **HashiCorp Certified: Terraform Associate (003/004)** exam.
+Daily study notes and progress tracker for preparing for the **HashiCorp Certified: Terraform Associate (004)** exam.
 
 ## Structure
 
